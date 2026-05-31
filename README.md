@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:f97316,100:0a0a0a&text=HARISH&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58" />
@@ -29,13 +28,13 @@
 
 ---
 
-# <div align="center">HARISH</div>
-
 <div align="center">
+
+# HARISH
 
 ### FULL STACK WEB DEVELOPER
 
-Modern web applications • Premium UI/UX • High Performance Websites
+Modern Web Applications • Premium UI/UX • High Performance Websites
 
 </div>
 
@@ -59,15 +58,17 @@ Chennai, Tamil Nadu, India
 React.js
 Next.js
 TypeScript
+Tailwind CSS
 Java
 Spring Boot
 Node.js
 
-> currently_building
-Modern UI Experiences
+> focus
+Modern UI/UX
 Scalable Web Applications
-Ecommerce Platforms
-````
+SEO Optimization
+Premium User Experience
+```
 
 </td>
 
@@ -81,17 +82,21 @@ Ecommerce Platforms
 
 ---
 
-# <div align="center">TECH STACK</div>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,express,java,spring,mysql,postgresql,git,github,figma,vscode,vercel&perline=9" />
+# TECH STACK
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,java,spring,mysql,postgresql,git,github,figma,vscode,vercel&perline=9" />
 
 </div>
 
 ---
 
-# <div align="center">SERVICES</div>
+<div align="center">
+
+# SERVICES
+
+</div>
 
 <table>
 <tr>
@@ -108,7 +113,7 @@ Modern responsive websites with premium UI design and optimized performance.
 
 ## FULL STACK APPS
 
-Scalable applications using React.js, Next.js, APIs, databases and backend systems.
+Scalable applications using React.js, Next.js, APIs and backend systems.
 
 </td>
 
@@ -116,7 +121,7 @@ Scalable applications using React.js, Next.js, APIs, databases and backend syste
 
 ## UI / UX ENGINEERING
 
-Interactive animations and modern user experiences using Framer Motion and GSAP.
+Interactive animations and premium user experiences using GSAP and Framer Motion.
 
 </td>
 
@@ -125,7 +130,11 @@ Interactive animations and modern user experiences using Framer Motion and GSAP.
 
 ---
 
-# <div align="center">FREELANCE PACKAGES</div>
+<div align="center">
+
+# FREELANCE PACKAGES
+
+</div>
 
 <table>
 <tr>
@@ -184,7 +193,11 @@ Features:
 
 ---
 
-# <div align="center">FEATURED PROJECTS</div>
+<div align="center">
+
+# FEATURED PROJECTS
+
+</div>
 
 <table>
 <tr>
@@ -209,7 +222,7 @@ Node.js
 
 ## DEVELOPER PORTFOLIO
 
-Interactive portfolio website focused on premium UI and animation.
+Interactive portfolio focused on premium UI and modern animations.
 
 ```txt
 STACK
@@ -226,9 +239,13 @@ TypeScript
 
 ---
 
-# <div align="center">GITHUB ANALYTICS</div>
-
 <div align="center">
+
+# GITHUB ANALYTICS
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harish-Dev-777&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316"/>
+
+<br/><br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Dev-777&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f97316&text_color=ffffff"/>
 
@@ -240,19 +257,14 @@ TypeScript
 
 ---
 
-# <div align="center">CONNECT</div>
-
 <div align="center">
+
+# CONNECT
 
 <a href="https://harishdev.site">Portfolio</a> • <a href="https://github.com/Harish-Dev-777">GitHub</a> • <a href="https://www.linkedin.com/in/harishdev777">LinkedIn</a> • <a href="mailto:harishmkdev@gmail.com">Email</a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0a,100:f97316" />
 
 </div>
-```
