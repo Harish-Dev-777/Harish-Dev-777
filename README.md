@@ -51,10 +51,7 @@ Building modern digital experiences with premium UI, motion design and scalable 
 <br/>
 <br/>
 
-<table>
-<tr>
-
-<td width="55%" valign="top">
+<div align="center">
 
 ```bash
 > whoami
@@ -92,18 +89,11 @@ Interactive Portfolio Systems
 "I build websites that refuse to look ordinary."
 ```
 
-</td>
-
-<td width="45%" align="center">
-
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harish-Dev-777&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316" />
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -117,7 +107,7 @@ Interactive Portfolio Systems
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,express,java,spring,mysql,postgresql,git,github,figma,vscode,vercel&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,express,java,spring,mysql,postgresql,git,github,figma,vscode,vercel&perline=5" />
 
 </div>
 
@@ -341,19 +331,29 @@ Includes:
 
 <br/>
 
-<a href="https://harishdev.site">Portfolio</a>
+<a href="https://harishdev.site">
+<img src="https://img.shields.io/badge/PORTFOLIO-HARISHDEV.SITE-f97316?style=for-the-badge&labelColor=0a0a0a" />
+</a>
 
-  •  
+<br/>
+<br/>
 
-<a href="https://github.com/Harish-Dev-777">GitHub</a>
+<a href="https://www.linkedin.com/in/harishdev777">
+<img src="https://img.shields.io/badge/LINKEDIN-HARISHDEV777-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
+</a>
 
-  •  
+<br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/harishdev777">LinkedIn</a>
+<a href="https://github.com/Harish-Dev-777">
+<img src="https://img.shields.io/badge/GITHUB-HARISH--DEV--777-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a" />
+</a>
 
-  •  
+<br/>
+<br/>
 
-<a href="mailto:harishmkdev@gmail.com">Email</a>
+<a href="mailto:harishmkdev@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labe
 
 <br/>
 <br/>
