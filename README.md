@@ -1,42 +1,49 @@
+````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=HARISH&fontSize=72&fontAlign=50&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58&color=0:f97316,100:0a0a0a&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:f97316,100:0a0a0a&text=HARISH&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <a href="https://harishdev.site">
 <img src="https://img.shields.io/badge/PORTFOLIO-HARISHDEV.SITE-f97316?style=for-the-badge&labelColor=0a0a0a"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harishdev777">
-<img src="https://img.shields.io/badge/LINKEDIN-HARISHDEV777-0A66C2?style=for-the-badge&labelColor=0a0a0a&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-HARISHDEV777-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
 </a>
 
 <a href="https://github.com/Harish-Dev-777">
-<img src="https://img.shields.io/badge/GITHUB-HARISH--DEV--777-ffffff?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-HARISH--DEV--777-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a"/>
 </a>
 
 <a href="mailto:harishmkdev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-ea4335?style=for-the-badge&labelColor=0a0a0a&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Harish-Dev-777&style=for-the-badge&color=f97316&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<div align="center">
+# <div align="center">HARISH</div>
 
-# HARISH
+<div align="center">
 
 ### FULL STACK WEB DEVELOPER
 
+Modern web applications • Premium UI/UX • High Performance Websites
+
 </div>
+
+<br/>
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 ```bash
 > whoami
@@ -48,28 +55,25 @@ Full Stack Web Developer
 > location
 Chennai, Tamil Nadu, India
 
-> stack
+> specialization
 React.js
 Next.js
 TypeScript
-Tailwind CSS
 Java
 Spring Boot
 Node.js
-MySQL
-PostgreSQL
 
-> focus
-Modern UI/UX
-Scalable Web Apps
-Performance & SEO
-Premium User Experience
-```
+> currently_building
+Modern UI Experiences
+Scalable Web Applications
+Ecommerce Platforms
+````
 
 </td>
-<td width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harish-Dev-777&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316" />
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Harish-Dev-777&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316"/>
 
 </td>
 </tr>
@@ -77,121 +81,119 @@ Premium User Experience
 
 ---
 
-<div align="center">
-
-# TECH STACK
-
-</div>
+# <div align="center">TECH STACK</div>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,java,spring,mysql,postgresql,git,github,figma,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,express,java,spring,mysql,postgresql,git,github,figma,vscode,vercel&perline=9" />
 
 </div>
 
 ---
 
-<div align="center">
-
-# SERVICES
-
-</div>
+# <div align="center">SERVICES</div>
 
 <table>
 <tr>
+
 <td width="33%">
 
-## WEB APPLICATIONS
+## WEB DEVELOPMENT
 
-Modern responsive applications with clean architecture and scalable frontend systems.
+Modern responsive websites with premium UI design and optimized performance.
 
 </td>
+
 <td width="33%">
 
-## ECOMMERCE SYSTEMS
+## FULL STACK APPS
 
-Custom ecommerce experiences with admin dashboards, authentication and payment integrations.
+Scalable applications using React.js, Next.js, APIs, databases and backend systems.
 
 </td>
+
 <td width="33%">
 
 ## UI / UX ENGINEERING
 
-Premium motion design and interactive interfaces using Framer Motion and GSAP.
+Interactive animations and modern user experiences using Framer Motion and GSAP.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<div align="center">
-
-# FREELANCE PACKAGES
-
-</div>
+# <div align="center">FREELANCE PACKAGES</div>
 
 <table>
 <tr>
+
 <td width="50%">
 
 <div align="center">
 
-# STANDARD
+## STANDARD
 
-## ₹3,999
+# ₹3,999
 
 </div>
 
 ```yaml
-Pages: 1-3
-Responsive Design: Included
-SEO Setup: Included
-Contact Form: Included
-Performance Optimization: Included
-Deployment Support: Included
+Pages:
+  - 1 to 3 Pages
+
+Features:
+  - Responsive Design
+  - Contact Form
+  - SEO Setup
+  - Fast Performance
+  - Deployment Support
 ```
 
 </td>
+
 <td width="50%">
 
 <div align="center">
 
-# PREMIUM
+## PREMIUM
 
-## ₹6,999
+# ₹6,999
 
 </div>
 
 ```yaml
-Pages: 6-8
-Advanced UI/UX: Included
-Admin Dashboard: Included
-Booking System: Included
-SEO Optimization: Included
-Premium Motion Design: Included
-Priority Support: Included
+Pages:
+  - 6 to 8 Pages
+
+Features:
+  - Advanced UI/UX
+  - Admin Dashboard
+  - Booking System
+  - SEO Optimization
+  - Premium Motion Design
+  - Priority Support
 ```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<div align="center">
-
-# FEATURED PROJECTS
-
-</div>
+# <div align="center">FEATURED PROJECTS</div>
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## TRENDLY ECOMMERCE
 
-Modern multi-vendor ecommerce application with futuristic UI and premium shopping experience.
+Modern multi-vendor ecommerce application with futuristic shopping experience.
 
 ```txt
 STACK
@@ -202,11 +204,12 @@ Node.js
 ```
 
 </td>
+
 <td width="50%">
 
 ## DEVELOPER PORTFOLIO
 
-Interactive developer portfolio focused on animation, performance and premium visual design.
+Interactive portfolio website focused on premium UI and animation.
 
 ```txt
 STACK
@@ -217,16 +220,19 @@ TypeScript
 ```
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+# <div align="center">GITHUB ANALYTICS</div>
+
 <div align="center">
 
-# GITHUB ANALYTICS
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Dev-777&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f97316&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Dev-777&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f97316&text_color=ffffff" />
+<br/><br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-Dev-777&bg_color=0a0a0a&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true"/>
 
@@ -234,14 +240,19 @@ TypeScript
 
 ---
 
+# <div align="center">CONNECT</div>
+
 <div align="center">
 
-# CONNECT
+<a href="https://harishdev.site">Portfolio</a> • <a href="https://github.com/Harish-Dev-777">GitHub</a> • <a href="https://www.linkedin.com/in/harishdev777">LinkedIn</a> • <a href="mailto:harishmkdev@gmail.com">Email</a>
 
-<a href="https://harishdev.site">harishdev.site</a> • <a href="https://github.com/Harish-Dev-777">GitHub</a> • <a href="https://www.linkedin.com/in/harishdev777">LinkedIn</a> • <a href="mailto:harishmkdev@gmail.com">Email</a>
+</div>
 
-<br/><br/>
+<br/>
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0a,100:f97316" />
 
 </div>
+```
