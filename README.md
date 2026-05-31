@@ -1,36 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:f97316,100:0a0a0a&text=HARISH&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=60&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:f97316,100:0a0a0a&text=HARISH&fontSize=78&fontColor=ffffff&animation=fadeIn&desc=FULL%20STACK%20WEB%20DEVELOPER%20%20•%20%20UI%20ENGINEER&descAlignY=60&fontAlignY=38" />
 
 <br/>
 <br/>
 
 <a href="https://harishdev.site">
-<img src="https://img.shields.io/badge/PORTFOLIO-HARISHDEV.SITE-f97316?style=for-the-badge&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-HARISHDEV.SITE-f97316?style=for-the-badge&labelColor=0a0a0a" />
 </a>
 
   
 
 <a href="https://www.linkedin.com/in/harishdev777">
-<img src="https://img.shields.io/badge/LINKEDIN-HARISHDEV777-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/LINKEDIN-HARISHDEV777-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
 </a>
 
   
 
 <a href="https://github.com/Harish-Dev-777">
-<img src="https://img.shields.io/badge/GITHUB-HARISH--DEV--777-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/GITHUB-HARISH--DEV--777-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a" />
 </a>
 
   
 
 <a href="mailto:harishmkdev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
 </a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Harish-Dev-777&style=for-the-badge&color=f97316&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Harish-Dev-777&style=for-the-badge&color=f97316&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -44,7 +44,7 @@
 
 ### FULL STACK WEB DEVELOPER
 
-Modern Web Applications • Premium UI/UX • Scalable Digital Experiences
+Building modern digital experiences with premium UI, motion design and scalable web architecture.
 
 </div>
 
@@ -67,28 +67,29 @@ Harish
 Full Stack Web Developer
 
 
-> location
-
-Chennai, Tamil Nadu, India
-
-
-> specialization
+> expertise
 
 React.js
 Next.js
 TypeScript
 Tailwind CSS
+Node.js
 Java
 Spring Boot
-Node.js
+PostgreSQL
 
 
-> focus
+> currently_building
 
-Modern UI/UX
-Scalable Web Applications
-SEO Optimization
-Premium User Experience
+Premium Web Experiences
+Scalable SaaS Applications
+Modern Ecommerce Platforms
+Interactive Portfolio Systems
+
+
+> philosophy
+
+"I build websites that refuse to look ordinary."
 ```
 
 </td>
@@ -97,7 +98,7 @@ Premium User Experience
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harish-Dev-777&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harish-Dev-777&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316" />
 
 </td>
 
@@ -116,7 +117,7 @@ Premium User Experience
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,java,spring,mysql,postgresql,git,github,figma,vscode,vercel&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,express,java,spring,mysql,postgresql,git,github,figma,vscode,vercel&perline=6" />
 
 </div>
 
@@ -129,7 +130,7 @@ Premium User Experience
 
 <div align="center">
 
-# SERVICES
+# WHAT I BUILD
 
 </div>
 
@@ -140,25 +141,85 @@ Premium User Experience
 
 <td width="33%" valign="top">
 
-## WEB DEVELOPMENT
+# WEB EXPERIENCES
 
-Modern responsive websites with premium UI design, performance optimization and scalable architecture.
-
-</td>
-
-<td width="33%" valign="top">
-
-## FULL STACK APPLICATIONS
-
-Scalable applications using React.js, Next.js, APIs, backend systems and database integration.
+Modern responsive websites focused on speed, interaction and premium visual design.
 
 </td>
 
 <td width="33%" valign="top">
 
-## UI / UX ENGINEERING
+# FULL STACK APPS
 
-Interactive interfaces and modern digital experiences using GSAP and Framer Motion.
+Scalable applications with clean architecture, API integrations and production-ready systems.
+
+</td>
+
+<td width="33%" valign="top">
+
+# UI / UX ENGINEERING
+
+Interactive user experiences using motion design, micro interactions and immersive layouts.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+# FEATURED PROJECTS
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+# TRENDLY ECOMMERCE
+
+Premium ecommerce platform with futuristic shopping UI, animations and responsive architecture.
+
+<br/>
+
+```txt
+STACK
+
+Next.js
+Tailwind CSS
+Framer Motion
+Node.js
+MongoDB
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+# DEVELOPER PORTFOLIO
+
+Interactive portfolio inspired by cinematic UI systems and modern motion experiences.
+
+<br/>
+
+```txt
+STACK
+
+React.js
+GSAP
+Three.js
+TypeScript
+```
 
 </td>
 
@@ -191,7 +252,7 @@ Interactive interfaces and modern digital experiences using GSAP and Framer Moti
 
 ## ₹3,999
 
-Modern Starter Website Package
+Minimal modern website package.
 
 </div>
 
@@ -201,10 +262,10 @@ Modern Starter Website Package
 Pages:
   - 1 to 3 Pages
 
-Features:
+Includes:
   - Responsive Design
-  - Contact Form
   - SEO Setup
+  - Contact Form
   - Fast Performance
   - Deployment Support
   - Mobile Optimization
@@ -220,7 +281,7 @@ Features:
 
 ## ₹6,999
 
-Advanced Business Website Package
+Advanced business website package.
 
 </div>
 
@@ -230,73 +291,14 @@ Advanced Business Website Package
 Pages:
   - 6 to 8 Pages
 
-Features:
-  - Advanced UI/UX
+Includes:
+  - Premium UI / UX
   - Admin Dashboard
   - Booking System
+  - Motion Design
   - SEO Optimization
-  - Premium Motion Design
   - Priority Support
   - Performance Optimization
-```
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-# FEATURED PROJECTS
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-# TRENDLY ECOMMERCE
-
-Modern multi-vendor ecommerce application with futuristic shopping experience and premium animations.
-
-<br/>
-
-```txt
-STACK
-
-Next.js
-Tailwind CSS
-Framer Motion
-Node.js
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-# DEVELOPER PORTFOLIO
-
-Interactive portfolio focused on premium visual experience, motion design and modern UI systems.
-
-<br/>
-
-```txt
-STACK
-
-React.js
-GSAP
-Three.js
-TypeScript
 ```
 
 </td>
@@ -317,17 +319,12 @@ TypeScript
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harish-Dev-777&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=f97316&icon_color=f97316&text_color=ffffff&ring_color=f97316"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Dev-777&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f97316&text_color=ffffff" />
 
 <br/>
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Dev-777&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=f97316&text_color=ffffff"/>
-
-<br/>
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-Dev-777&bg_color=0a0a0a&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-Dev-777&bg_color=0a0a0a&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -362,6 +359,6 @@ TypeScript
 <br/>
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0a0a0a,100:f97316" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0a0a0a,100:f97316" />
 
 </div>
